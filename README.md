@@ -1,7 +1,18 @@
 # ESTUDO DE CONFORMIDADE NORMATIVA E RETROFIT DO SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA) EM EDIFICAÇÃO ACADÊMICO: AVALIAÇÃO E ADEQUAÇÃO ÀS NORMAS ABNT NBR 5419:2015
 <img width="6443" height="123" alt="image" src="https://github.com/user-attachments/assets/d377ff99-39c2-4a45-b60e-f09c3f1cabcb" />
 
+**Curso: Engenharia Elétrica**
 
+**Trabalho realizado por:**
+
+José Carlos Franchini Junior  - email: jose.franchini@alunos.fho.edu.br
+
+Paulo Ijano Motta Junior - email: paulomotta@alunos.fho.edu.br
+
+**Orientado por:**
+
+Prof. Dr. Daniel Augusto Pagi Ferreira - email: danielferreira@fho.edu.br
+<img width="6443" height="123" alt="image" src="https://github.com/user-attachments/assets/d377ff99-39c2-4a45-b60e-f09c3f1cabcb" />
 🛡️ **Retrofit do SPDA – Restaurante FHO**
 
 Projeto desenvolvido para avaliar o SPDA existente do restaurante da FHO, identificar falhas e propor um novo sistema totalmente alinhado à ABNT NBR 5419:2015. O estudo envolveu inspeção técnica, análise de risco, modelagem 3D e redimensionamento completo dos subsistemas de captação, descida, aterramento e proteção interna.
