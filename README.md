@@ -1,9 +1,6 @@
 # ESTUDO DE CONFORMIDADE NORMATIVA E RETROFIT DO SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA) EM EDIFICAÇÃO ACADÊMICO: AVALIAÇÃO E ADEQUAÇÃO ÀS NORMAS ABNT NBR 5419:2015
 <img width="6443" height="123" alt="image" src="https://github.com/user-attachments/assets/d377ff99-39c2-4a45-b60e-f09c3f1cabcb" />
 
-Repositório dedicado ao desenvolvimento do TCC de Engenharia Elétrica para a Fundação Hermínio Ometto, sobre conformidade normativa e retrofit do SPDA em edificação acadêmica, com base na norma ABNT NBR 5419:2015. Aqui estão os materiais e análises do projeto.
-
-
 
 🛡️**Estudo de Conformidade e Retrofit do SPDA – Restaurante FHO**
 
