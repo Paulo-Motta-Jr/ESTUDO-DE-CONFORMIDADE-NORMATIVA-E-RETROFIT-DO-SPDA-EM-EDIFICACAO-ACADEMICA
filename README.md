@@ -64,7 +64,7 @@ O projeto teve como objetivo avaliar o SPDA existente, identificar não conformi
 
 -Instalação de captores individuais para exaustores.
 
--Definição de 8–9 descidas distribuídas conforme norma.
+-Definição de 8 descidas distribuídas conforme norma.
 
 -Equipotencialização de tubulações, guarda-corpos e sala de gás.
 
@@ -85,7 +85,7 @@ Modelagem 3D como base para todos os layouts 2D.
 
 -Minimização de erros de montagem em campo.
 
-<p align="center">
+
   <img width="636" height="408" alt="Imagem1" src="https://github.com/user-attachments/assets/163e34ff-521c-46ba-b6b2-3792d4e98894" />
 </p>
 
