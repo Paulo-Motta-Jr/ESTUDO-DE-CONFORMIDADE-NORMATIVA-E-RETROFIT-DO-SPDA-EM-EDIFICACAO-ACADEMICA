@@ -2,103 +2,39 @@
 <img width="6443" height="123" alt="image" src="https://github.com/user-attachments/assets/d377ff99-39c2-4a45-b60e-f09c3f1cabcb" />
 
 
-🛡️**Estudo de Conformidade e Retrofit do SPDA – Restaurante FHO**
+🛡️ **Retrofit do SPDA – Restaurante FHO**
 
-Este repositório apresenta o desenvolvimento completo do projeto de retrofit do Sistema de Proteção contra Descargas Atmosféricas (SPDA) do restaurante da FHO, incluindo análise de conformidade normativa, levantamento técnico, modelagem 3D e elaboração de um novo sistema seguindo a ABNT NBR 5419:2015.
+Projeto desenvolvido para avaliar o SPDA existente do restaurante da FHO, identificar falhas e propor um novo sistema totalmente alinhado à ABNT NBR 5419:2015. O estudo envolveu inspeção técnica, análise de risco, modelagem 3D e redimensionamento completo dos subsistemas de captação, descida, aterramento e proteção interna.
 
-📘 **Descrição Geral**
+🔍 **Escopo do Projeto**
 
-O projeto teve como objetivo avaliar o SPDA existente, identificar não conformidades, realizar análise de risco e propor um novo sistema de proteção dimensionado corretamente. Todo o estudo foi embasado nas práticas e requisitos da ABNT NBR 5419 (partes 1 a 4).
+-Levantamento técnico e análise das condições atuais do SPDA.
 
-🎯 **Objetivos do Projeto**
+-Identificação de não conformidades: seção insuficiente de condutores, oxidação, falta de equipotencialização e ausência de DPS.
 
+-Modelagem da edificação no AutoCAD Plant 3D para precisão geométrica.
 
--Avaliar a situação atual do SPDA da edificação.
+-Análise de risco com o software TUPAN, definindo a Classe de Proteção adequada.
 
--Verificar a conformidade com a ABNT NBR 5419:2015.
+-Aplicação do método da Esfera Rolante para definição da zona de proteção.
 
--Realizar análise de risco utilizando o software TUPAN.
+-Dimensionamento de nova captação, inclusão de captores individuais para exaustores e redistribuição das descidas.
 
--Desenvolver novo projeto de SPDA conforme Classe de Proteção adequada.
-
--Criar modelagem 3D e layouts técnicos no AutoCAD Plant 3D.
-
--Propor soluções que garantem segurança e eficiência.
-
-🔍 **Escopo Desenvolvido**
-
-
--Levantamento técnico em campo.
-
--Inspeção dos subsistemas: captação, descida, aterramento e equipotencialização.
-
--Análise de DPS e proteção interna.
-
--Identificação de falhas e riscos.
-
--Modelagem civil 3D completa da edificação.
-
--Aplicação do método da Esfera Rolante.
-
--Dimensionamento das descidas e captores.
-
--Geração dos desenhos e detalhes construtivos.
-
-⚠️ **Principais Não Conformidades Encontradas**
-
-
--Barra chata com seção inferior ao mínimo exigido.
-
--Ausência de DPS em quadros elétricos.
-
--Pontos de corrosão e má continuidade elétrica.
-
--Tubulações e botijões sem equipotencialização.
-
--Exaustores posicionados acima da zona de proteção atual.
-
-
-🛠️ **Soluções Aplicadas no Novo Projeto**
-
--Redimensionamento da captação com aplicação da Esfera Rolante.
-
--Instalação de captores individuais para exaustores.
-
--Definição de 8 descidas distribuídas conforme norma.
-
--Equipotencialização de tubulações, guarda-corpos e sala de gás.
-
--Inclusão de DPS de proteção interna.
-
-Modelagem 3D como base para todos os layouts 2D.
-
+-Correção do sistema de aterramento e inclusão de equipotencialização das estruturas metálicas.
 
 📈 **Resultados Obtidos**
 
--SPDA totalmente conforme a ABNT NBR 5419:2015.
+-SPDA redesenhado conforme todos os requisitos da ABNT NBR 5419.
 
--Redução significativa dos riscos elétricos e estruturais.
+-Sistema mais seguro, padronizado e com maior confiabilidade.
 
--Sistema mais seguro, robusto e padronizado.
+-Riscos estruturais e elétricos significativamente reduzidos.
 
--Projeto com alta confiabilidade para execução.
+-Garantia de proteção externa e interna através de DPS e conexões equipotenciais.
 
--Minimização de erros de montagem em campo.
+-Projeto final completo, com layouts precisos e pronto para execução.
 
-
-  <img width="500" height="300" alt="Imagem1" src="https://github.com/user-attachments/assets/163e34ff-521c-46ba-b6b2-3792d4e98894" />
+  <img width="450" height="300" alt="Imagem1" src="https://github.com/user-attachments/assets/163e34ff-521c-46ba-b6b2-3792d4e98894" />
 </p>
 
-🧰 **Tecnologias e Ferramentas Utilizadas**
 
--AutoCAD Plant 3D – Modelagem civil,SPDA e Layouts técnicos.
-
--TUPAN – Gerenciamento de risco.
-
--ABNT NBR 5419:2015 – Referência normativa.
-
-👥 **Autores**
-
-José Carlos Franchini Junior
-
-Paulo Ijano Motta Junior
