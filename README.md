@@ -86,7 +86,7 @@ Modelagem 3D como base para todos os layouts 2D.
 -Minimização de erros de montagem em campo.
 
 
-  <img width="636" height="408" alt="Imagem1" src="https://github.com/user-attachments/assets/163e34ff-521c-46ba-b6b2-3792d4e98894" />
+  <img width="500" height="300" alt="Imagem1" src="https://github.com/user-attachments/assets/163e34ff-521c-46ba-b6b2-3792d4e98894" />
 </p>
 
 🧰 **Tecnologias e Ferramentas Utilizadas**
@@ -97,10 +97,6 @@ Modelagem 3D como base para todos os layouts 2D.
 
 -ABNT NBR 5419:2015 – Referência normativa.
 
--AutoCAD 2D – Layouts técnicos e detalhes.
-
 👥 #Autores
-
 José Carlos Franchini Junior
-
 Paulo Ijano Motta Junior
