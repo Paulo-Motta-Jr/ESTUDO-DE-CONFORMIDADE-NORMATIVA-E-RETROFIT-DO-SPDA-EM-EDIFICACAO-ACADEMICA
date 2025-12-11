@@ -97,6 +97,8 @@ Modelagem 3D como base para todos os layouts 2D.
 
 -ABNT NBR 5419:2015 – Referência normativa.
 
-👥 #Autores
+👥 **Autores**
+
 José Carlos Franchini Junior
+
 Paulo Ijano Motta Junior
